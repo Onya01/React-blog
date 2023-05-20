@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?/nIt is a long established fact that a reader will be distracted by readable content of a page when looking at it layout. The point of using Lorem ipsum is that it has a more-or-less normal distribution of letters, as opposeed to using 'Content here, content here', making to look like readable English. Many desktop publishing packages and web page editors now use Lorem psum as their default modal text, and a search for 'lorem ipsum' will uncover many web site in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on urpose (injected humour and the like). Where does it come from? Contrary to popular belief. Lorem ipsum is not simply random text. It has roots in a piece of classical latin literature from 45 BC making it over 200 years old. Richard McClintack a latin professor at Hampden-Sydney College in virginia locked up one of the more obscure latin words, consectetur, from a lorem ipsum page, and going through the cities of the word in classical literature, discovered the undoutable source. Lorem ipsum comes from section 110.33 of ' de Finibus et Molorum (The extremes of Good and Evil) by Cicero, written in 45 BC.",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "Opening party",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by readable content of a page when looking at it layout. The point of using Lorem ipsum is that it has a more-or-less normal distribution of letters, as opposeed to using 'Content here, content here', making to look like readable English. Many desktop publishing packages and web page editors now use Lorem psum as their default modal text, and a search for 'lorem ipsum' will uncover many web site in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on urpose (injected humour and the like). Where does it come from? Contrary to popular belief. Lorem ipsum is not simply random text. It has roots in a piece of classical latin literature from 45 BC making it over 200 years old. Richard McClintack a latin professor at Hampden-Sydney College in virginia locked up one of the more obscure latin words, consectetur, from a lorem ipsum page, and going through the cities of the word in classical literature, discovered the undoutable source. Lorem ipsum comes from section 110.33 of ' de Finibus et Molorum (The extremes of Good and Evil) by Cicero, written in 45 BC.",
+      "author": "Yoshi",
+      "id": 2
+    },
+    {
+      "title": "Chelsea Position",
+      "body": "Chelsea is now 13th on the English premier table this season. The way they are going down, they'll discover crude oil before Ghana",
+      "author": "Caesar",
+      "id": 4
+    }
+  ]
+}
